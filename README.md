@@ -37,14 +37,6 @@ Configuration Management
 
 Users can keep multiple VPN configurations inside one application.
 
-Configurations can be organized by:
-
-- Server
-- Country
-- Protocol
-- Profile
-- Subscription
-
 This makes Mevi VPN suitable both for personal use and for users managing larger VPN infrastructures.
 
 ---
