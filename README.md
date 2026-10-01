@@ -1,24 +1,11 @@
-# Mevi Proxy
+# Mevi Proxy → Афарар Proxy
 
-Mevi Proxy is an Android proxy client for managing multiple subscriptions and servers in one place.
+Приложение переехало в [Afarar-Proxy](https://github.com/usach77/Afarar-Proxy). Новые версии выпускаются там.
 
-## Features
+**Автоматическое переключение серверов** помогает сохранить соединение при нестабильной связи и меняющейся доступности серверов в российских сетях.
 
-- Multiple subscriptions
-- VLESS, REALITY, WebSocket, XHTTP and Hysteria2
-- Server availability checks
-- Ping monitoring
-- Traffic usage and subscription expiration info
-- Quick subscription refresh
-- Automatic connection switching
-- One-tap connection
-- Support and account links
-- Clean Android interface
+[Скачать актуальную версию](https://github.com/usach77/Afarar-Proxy/releases/latest) · [Переходное обновление 0.4.32](https://github.com/usach77/MeviVPN/releases/tag/v0.4.32)
 
-## Installation
+Установите 0.4.32 поверх текущего приложения: подписки и настройки сохранятся, последующие обновления будут проверяться в новом репозитории. Этот репозиторий сохраняется для обновления старых установок.
 
-Download the latest APK from [Releases](../../releases).
-
-## Status
-
-Mevi Proxy is currently under active development.
+Android 7.0+, ARM64. Для работы нужна подписка или конфигурация от провайдера. Полные исходники и лицензии включены в архив `Afarar-Proxy-0.4.32-source.zip` переходного выпуска.
